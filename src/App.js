@@ -1,8 +1,9 @@
 import React from 'react';
+import Home from './sections/Home';
 
 const App = () => (
 <div>
-<h2>This is the new app for training purpose</h2>    
+<Home/>   
 </div>
 )
 
